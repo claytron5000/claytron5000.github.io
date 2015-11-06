@@ -7,4 +7,4 @@ This seems like a good way to build a website.
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-[google.com]
+<a href="google.com">link</a>
